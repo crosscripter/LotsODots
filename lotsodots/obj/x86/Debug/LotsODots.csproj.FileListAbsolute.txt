@@ -1,0 +1,7 @@
+C:\Users\MichaelS\Dropbox\Code\LotsODots\LotsODots\bin\Debug\LotsODots.exe
+C:\Users\MichaelS\Dropbox\Code\LotsODots\LotsODots\bin\Debug\LotsODots.pdb
+C:\Users\MichaelS\Dropbox\Code\LotsODots\LotsODots\obj\x86\Debug\LotsODots.Form1.resources
+C:\Users\MichaelS\Dropbox\Code\LotsODots\LotsODots\obj\x86\Debug\LotsODots.Properties.Resources.resources
+C:\Users\MichaelS\Dropbox\Code\LotsODots\LotsODots\obj\x86\Debug\LotsODots.csproj.GenerateResource.Cache
+C:\Users\MichaelS\Dropbox\Code\LotsODots\LotsODots\obj\x86\Debug\LotsODots.exe
+C:\Users\MichaelS\Dropbox\Code\LotsODots\LotsODots\obj\x86\Debug\LotsODots.pdb
